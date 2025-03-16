@@ -114,6 +114,7 @@ temperaturas = [
         ]
     ]
 ]
+
 ciudades =["Guayaquil","Quito","Cuenca"]
 for ciudad_idx,ciudad in enumerate(temperaturas):
     for semana_idx,semana in enumerate(ciudad):
