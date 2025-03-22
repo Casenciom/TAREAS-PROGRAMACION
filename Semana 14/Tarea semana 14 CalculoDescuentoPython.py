@@ -11,5 +11,6 @@ if __name__=="__main__":
     print(f"Monto de la compra mensuales es {compras_mensuales}, el descuento es {descuento1}")
 
 ## Llamada Compra de una moto
-    descuento2 = calcular_descuento(compra_moto)
+
+    descuento2 = calcular_descuento(compra_moto,20)
     print(f"Monto de la compra de la moto es {compra_moto}, el descuento es {descuento2}")
